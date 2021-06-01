@@ -1,0 +1,1 @@
+call devenv VimD3DLib/VimD3DLib.sln /build release

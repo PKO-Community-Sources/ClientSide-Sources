@@ -1,0 +1,21 @@
+文件归类说明
+
+GameApp.h			CGameApp类的所有变量和接口函数定义
+
+GameAppInterface    所有提供给其他用户(包括自己)使用的接口
+
+GameAppInit			构造 析构 初始化
+
+GameAppFrameMove	逻辑定时循环
+
+GameAppRender		渲染(绘图)定时循环	
+
+GameAppMsg			消息处理(window消息, 自定义消息, 界面消息, 控制台消息等)
+
+GameAppNet			和网络有关的处理
+
+
+请认清用途, 理解概念,  临时代码及时删除
+
+
+全部变量请放到 GlobalVar.h  GlobalVar.cpp

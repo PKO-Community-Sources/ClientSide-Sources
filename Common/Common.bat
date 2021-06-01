@@ -1,0 +1,1 @@
+call devenv common/Proj/Common.sln /build Long_Struct_Release

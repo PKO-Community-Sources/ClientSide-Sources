@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game", "kop.vcproj", "{595AD564-2531-4FB6-A058-81D42E7697A4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8661B70A-8D22-4082-9E71-00312294DF0F} = {8661B70A-8D22-4082-9E71-00312294DF0F}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MindPower3D", "..\..\Engine\sdk\proj\MindPower3D.vcproj", "{8661B70A-8D22-4082-9E71-00312294DF0F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Editor = Editor
+		Publish = Publish
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{595AD564-2531-4FB6-A058-81D42E7697A4}.Debug.ActiveCfg = Debug|Win32
+		{595AD564-2531-4FB6-A058-81D42E7697A4}.Debug.Build.0 = Debug|Win32
+		{595AD564-2531-4FB6-A058-81D42E7697A4}.Editor.ActiveCfg = Editor|Win32
+		{595AD564-2531-4FB6-A058-81D42E7697A4}.Editor.Build.0 = Editor|Win32
+		{595AD564-2531-4FB6-A058-81D42E7697A4}.Publish.ActiveCfg = Publish|Win32
+		{595AD564-2531-4FB6-A058-81D42E7697A4}.Publish.Build.0 = Publish|Win32
+		{595AD564-2531-4FB6-A058-81D42E7697A4}.Release.ActiveCfg = Release|Win32
+		{595AD564-2531-4FB6-A058-81D42E7697A4}.Release.Build.0 = Release|Win32
+		{8661B70A-8D22-4082-9E71-00312294DF0F}.Debug.ActiveCfg = Debug|Win32
+		{8661B70A-8D22-4082-9E71-00312294DF0F}.Debug.Build.0 = Debug|Win32
+		{8661B70A-8D22-4082-9E71-00312294DF0F}.Editor.ActiveCfg = Release|Win32
+		{8661B70A-8D22-4082-9E71-00312294DF0F}.Editor.Build.0 = Release|Win32
+		{8661B70A-8D22-4082-9E71-00312294DF0F}.Publish.ActiveCfg = Release|Win32
+		{8661B70A-8D22-4082-9E71-00312294DF0F}.Publish.Build.0 = Release|Win32
+		{8661B70A-8D22-4082-9E71-00312294DF0F}.Release.ActiveCfg = Release|Win32
+		{8661B70A-8D22-4082-9E71-00312294DF0F}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

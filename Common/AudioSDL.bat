@@ -1,0 +1,1 @@
+call devenv AudioSDL/proj/AudioSDL.sln /build release

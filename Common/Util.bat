@@ -1,0 +1,1 @@
+call devenv Util/Proj/Util.sln /build release

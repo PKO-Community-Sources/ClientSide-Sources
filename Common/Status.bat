@@ -1,0 +1,1 @@
+call devenv Status/Proj/Status.sln /build release

@@ -1,0 +1,1 @@
+call devenv sdk/proj/MindPower3D.sln /build release

@@ -1,0 +1,1 @@
+call devenv proj/kop.sln /build release
