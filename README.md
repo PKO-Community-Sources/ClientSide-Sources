@@ -11,7 +11,7 @@ Build Source:
     3) Build Solution (shortcut: CTRL + Shift + B)
 
 Setup Client:
-    1) Game Client Link: https://mega.nz/file/YDBSgCBJ#-hA05hSYFCHO72LhOTV5mcQK4Rse1QxC1eof8sQD0iE   
+    1) Game Client Link: https://mega.nz/#!OupTjIYK!LUIRAJhhE1p_DOtY8cv37IdVXHmiBWW5swa2ysFzU2g   
 
     2) Extract
     3) Copy "Game.exe" from "Client\Client\bin\system\" to "Corsairs Online - An Ocean Fantasy\system"
